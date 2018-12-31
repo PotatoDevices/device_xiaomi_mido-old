@@ -1,0 +1,12 @@
+[
+ {
+   "repository" : "Adesh15/android_kernel_xiaomi_msm8953",
+   "target_path": "kernel/xiaomi/msm8953",
+   "branch"     : "pie",
+   "remote"     : "github"
+ },
+ {
+   "repository" : "vendor_xiaomi",
+   "target_path": "vendor/xiaomi"
+ }
+]
